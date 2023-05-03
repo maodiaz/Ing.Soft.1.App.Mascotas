@@ -1,0 +1,34 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+/*#section1{
+	-webkit-box-shadow: -5px -1px 16px 20px rgba(122,101,168,1);
+-moz-box-shadow: -5px -1px 16px 20px rgba(122,101,168,1);
+box-shadow: -5px -1px 16px 20px rgba(122,101,168,1);
+}*/
+
+#section2{
+	margin: 0px;
+	padding: 0px;
+	display: flex;
+	justify-content: center;
+}
+
+#loginForm{
+	width: 500px;
+	height: 500px;
+	color: #7a65a8;
+	margin-top: 210px;
+	position: relative;
+	background-color: #fcfcfc;
+	padding: 30px;
+	border-radius: 15px;
+}
+
+#btnLogin{
+	background-color: #7a65a8;
+	color: #fff;
+}
+
